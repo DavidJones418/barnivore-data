@@ -1,0 +1,31 @@
+name: Update
+
+on:
+  push:
+  schedule:
+    - cron: '19 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: data
+      - name: Fetch
+        run: |
+          for f in beer.json liquor.json wine.json
+          do
+            curl -Ssf http://www.barnivore.com/$f |
+              python3 -m json.tool - $f
+          done
+          git add .
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git diff --cached --quiet --exit-code ||
+            git commit -m "downloaded from http://www.barnivore.com"
+      - name: Push
+        run: git push
