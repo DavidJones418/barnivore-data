@@ -9546,6 +9546,29 @@
     },
     {
         "company": {
+            "id": 7967,
+            "company_name": "Kavalan Pure Taiwan",
+            "tag": "Kavalan-Pure-Taiwan",
+            "address": "230, Sec. 3, Roosevelt Rd., Zhongzheng Dist.",
+            "city": "Taipei City 100",
+            "state": "",
+            "postal": "",
+            "country": "Taiwan",
+            "phone": "",
+            "fax": "",
+            "email": "http://www.kavalanwhisky.com/en/contact_us.php",
+            "url": "http://www.kavalanwhisky.com/",
+            "checked_by": "Tiff",
+            "doubled_by": "",
+            "notes": "Company email (August 2020)\r\n\r\n\"Kavalan whiskies are purely made from water, malted barley and yeast, and then aged in various casks previously held wine or spirit. Every drop is mashed, fermented, distilled and matured at Kavalan Distillery.\r\n\r\n\"We do not add any additives during whisky producing process. However, some wineries might add egg white to help filter precipitates, which is not suitable for vegan. Therefore, we suggest vegan to choose non-wine cask matured whiskies such as Virgin oak, Ex-bourbon and Rum Single Cask Strength Single Malt Whisky, etc. They are aged in casks that previously held spirits. Wine Cask or single malt whisky blending from different casks are not recommended.\"",
+            "created_on": "2020-08-26T21:10:44.000-04:00",
+            "updated_on": "2020-08-26T21:10:44.000-04:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
             "id": 6302,
             "company_name": "Kellermister Holdings PTY LTD",
             "tag": "Kellermister-Holdings-PTY-LTD",
