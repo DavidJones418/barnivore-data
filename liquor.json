@@ -1243,6 +1243,29 @@
     },
     {
         "company": {
+            "id": 7987,
+            "company_name": "Au Vodka",
+            "tag": "Au-Vodka",
+            "address": "The Post House, Adelaide Street",
+            "city": "Swansea",
+            "state": "",
+            "postal": "",
+            "country": "Wales",
+            "phone": "",
+            "fax": "",
+            "email": "customerservices@auvodka.co.uk",
+            "url": "https://auvodka.co.uk/",
+            "checked_by": "Aaron",
+            "doubled_by": "",
+            "notes": "Company email (August 2020)\r\n\r\n[Company sent an allergen statement confirming no animal products were used in the products or the premises]",
+            "created_on": "2020-08-30T17:09:50.000-04:00",
+            "updated_on": "2020-08-30T17:09:50.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 2614,
             "company_name": "Auchentoshan Distillery",
             "tag": "Auchentoshan-Distillery",
@@ -6753,10 +6776,10 @@
             "email": "info@franzia.com",
             "url": "http://www.franzia.com/",
             "checked_by": "Cynthia",
-            "doubled_by": "MJ, Theron, Jeannie, Cory, Ciera, Corey, Grant, Michael",
-            "notes": "Company email (November 2018)\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.\"\r\n\r\nCompany email (June 2016):\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.  In general, these agents are insoluble in wine and are removed during subsequent clarification and filtration. It is our understanding that if any animal product has been in contact with the wine, we cannot claim it to be vegan.\"\r\n\r\nCompany email (June 2015): (Franzia Chillable Red, Sunset Blush)\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.  In general, these agents are insoluble in wine and are removed during subsequent clarification and filtration.\r\nIt is our understanding that if any animal product has been in contact with the wine, we cannot claim it to be vegan.\"\r\n\r\nCompany email (September 2013):\r\n\"We do not use animal byproducts in our wines!  Enjoy!\"\r\n\r\nCompany email (February 2013):\r\n[regarding Tribuno Vermouth] \"I just heard back from our Vermouth winemaker. No, none of these materials used in or during the process of making these products.\"\r\n\r\nCompany email (November 2011):\r\n\"Our products do not contain any animal products at bottling. Some commercially produced base wines are treated with milk fining or gelatin in rare instances during processing, however to the best of our knowledge none of these products remain in the wine after processing.\"\r\n\r\nCompany email (October 2011):\r\n\"We do not use any in our wine processing! Cheers!\"\r\n\r\nBarnivore Editor's note: May 2011\r\nSince the first email sounded like they aren't vegan friendly and the first check they weren't vegan friendly. We sent a follow up to triple check... and  have yet to hear back. If you are interested in this wine, please send them an email, then forward us the correspondence.\"\r\n\r\nCompany reply: July 2010\r\n\"No we do not use them.\"\r\n\r\nMJ's reply:\r\n\"I am not sure I understand your answer; do you use the milk  / gelatin /other animal base products  during processing?.\"\r\n\r\nCompany Email:July 2010\r\n\"Our products do not contain any animal products at bottling. Some commercially produced base wines are treated with milk fining or gelatin in rare instances during processing, however to the best of our knowledge none of these products remain in the wine after processing.\"\r\n\r\n\r\nCompany Email: May 2010\r\n\"Our wines are treated with various agents during processing such as\r\ndecolorizing, clarifying and fining agents. These agents are taken out\r\nof the wine by filtration, but traces might be left in wine.\"",
+            "doubled_by": "MJ, Theron, Jeannie, Cory, Ciera, Corey, Grant, Michael, Bethany",
+            "notes": "Company email (August 2020)\r\n\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.\"\r\n\r\nCompany email (November 2018)\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.\"\r\n\r\nCompany email (June 2016):\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.  In general, these agents are insoluble in wine and are removed during subsequent clarification and filtration. It is our understanding that if any animal product has been in contact with the wine, we cannot claim it to be vegan.\"\r\n\r\nCompany email (June 2015): (Franzia Chillable Red, Sunset Blush)\r\n\"Fining agents containing gelatin derived from pork and fermentation aids containing casein from milk may be used in the production of Franzia wines.  In general, these agents are insoluble in wine and are removed during subsequent clarification and filtration.\r\nIt is our understanding that if any animal product has been in contact with the wine, we cannot claim it to be vegan.\"\r\n\r\nCompany email (September 2013):\r\n\"We do not use animal byproducts in our wines!  Enjoy!\"\r\n\r\nCompany email (February 2013):\r\n[regarding Tribuno Vermouth] \"I just heard back from our Vermouth winemaker. No, none of these materials used in or during the process of making these products.\"\r\n\r\nCompany email (November 2011):\r\n\"Our products do not contain any animal products at bottling. Some commercially produced base wines are treated with milk fining or gelatin in rare instances during processing, however to the best of our knowledge none of these products remain in the wine after processing.\"\r\n\r\nCompany email (October 2011):\r\n\"We do not use any in our wine processing! Cheers!\"\r\n\r\nBarnivore Editor's note: May 2011\r\nSince the first email sounded like they aren't vegan friendly and the first check they weren't vegan friendly. We sent a follow up to triple check... and  have yet to hear back. If you are interested in this wine, please send them an email, then forward us the correspondence.\"\r\n\r\nCompany reply: July 2010\r\n\"No we do not use them.\"\r\n\r\nMJ's reply:\r\n\"I am not sure I understand your answer; do you use the milk  / gelatin /other animal base products  during processing?.\"\r\n\r\nCompany Email:July 2010\r\n\"Our products do not contain any animal products at bottling. Some commercially produced base wines are treated with milk fining or gelatin in rare instances during processing, however to the best of our knowledge none of these products remain in the wine after processing.\"\r\n\r\n\r\nCompany Email: May 2010\r\n\"Our wines are treated with various agents during processing such as\r\ndecolorizing, clarifying and fining agents. These agents are taken out\r\nof the wine by filtration, but traces might be left in wine.\"",
             "created_on": "2010-05-29T07:47:00.000-04:00",
-            "updated_on": "2018-12-02T08:33:04.000-05:00",
+            "updated_on": "2020-08-30T12:32:36.000-04:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -13443,13 +13466,13 @@
             "country": "Iceland",
             "phone": "",
             "fax": "",
-            "email": "info@reykavodka.com",
+            "email": "rowinfo@reyka.com",
             "url": "http://www.reyka.com/",
             "checked_by": "Asya",
-            "doubled_by": "",
-            "notes": "Company email (October 2012):\r\n\"Reyka does not contain any animal ingredients  and no animal ingredients are used as part of the production process.\r\n \r\nReyka is manufactured in-house so we have complete control and visibility of production quality and standards.\"\r\n",
+            "doubled_by": "Aaron",
+            "notes": "Company email (August 2020)\r\n\r\n\"I can confirm there is no animal ingredients in the produce or process.\"\r\n\r\nCompany email (October 2012):\r\n\"Reyka does not contain any animal ingredients  and no animal ingredients are used as part of the production process.\r\n \r\nReyka is manufactured in-house so we have complete control and visibility of production quality and standards.\"\r\n",
             "created_on": "2012-10-16T21:55:17.000-04:00",
-            "updated_on": "2012-10-16T21:55:27.000-04:00",
+            "updated_on": "2020-08-30T17:04:26.000-04:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -16463,6 +16486,29 @@
             "notes": "Company email (February 2015):\r\n\"No milk or honey...and no animal products in filtration. We are the only manufacturing and packaging facility.\"\r\n",
             "created_on": "2015-02-10T21:55:15.000-05:00",
             "updated_on": "2015-02-10T21:55:15.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 7974,
+            "company_name": "Two Robbers",
+            "tag": "Two-Robbers",
+            "address": "1901 S. 9th Street, Unit 413",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "postal": "19148",
+            "country": "USA",
+            "phone": "",
+            "fax": "",
+            "email": "team@tworobbers.com",
+            "url": "https://tworobbers.com/",
+            "checked_by": "Inga",
+            "doubled_by": "",
+            "notes": "Company email (August 2020)\r\n\r\n\"We checked with our brewing team and brewery, and while our product is not certified vegan, I've confirmed that we don't use any animal ingredients on animal products (including animal-derived enzymes) in the process or filtration. Hope that is helpful. Our product is all manufactured and packaged at Yards Brewing.\"",
+            "created_on": "2020-08-30T12:07:11.000-04:00",
+            "updated_on": "2020-08-30T12:07:11.000-04:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
