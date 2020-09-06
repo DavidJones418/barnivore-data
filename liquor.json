@@ -6234,6 +6234,29 @@
     },
     {
         "company": {
+            "id": 7990,
+            "company_name": "Fabrizia Spirits",
+            "tag": "Fabrizia-Spirits",
+            "address": "2 Industrial Way Salem",
+            "city": "Salem",
+            "state": "New Hampshire",
+            "postal": "03079",
+            "country": "USA",
+            "phone": "(603) 458-1745",
+            "fax": "",
+            "email": "info@fabriziaspirits.com",
+            "url": "https://www.fabriziaspirits.com/",
+            "checked_by": "Nicole",
+            "doubled_by": "",
+            "notes": "Company email (September 2020)\r\n\r\n\"Our traditional and blood orange limoncello and all our canned cocktails (Italian Margarita, Lemonade and the Breeze contain none of the [animal products from the standard Barnivore questions], however our Cream limoncello is not dairy free as it contains cream.\r\n\r\n\"We only produce our product in Salem, NH\"",
+            "created_on": "2020-09-05T16:37:23.000-04:00",
+            "updated_on": "2020-09-05T16:37:23.000-04:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
             "id": 1574,
             "company_name": "Fabulous Vodka Company",
             "tag": "Fabulous-Vodka-Company",
