@@ -4095,29 +4095,6 @@
     },
     {
         "company": {
-            "id": 1279,
-            "company_name": "Cointreau",
-            "tag": "Cointreau",
-            "address": "",
-            "city": "",
-            "state": "",
-            "postal": "",
-            "country": "France",
-            "phone": "",
-            "fax": "",
-            "email": "consumerservice@cointreau.com",
-            "url": "www.cointreau.com",
-            "checked_by": "Adam",
-            "doubled_by": "Peter",
-            "notes": "Company email regarding the sugar, June 2011:\r\n\r\n\"We do not use bone char filter[ed sugar] for Cointreau.\"\r\n\r\nCompany Email:\r\n\"We are pleased to inform you that Cointreau does not contain any animal nor animal-derivated products, nor any honey.\r\n\r\nCointreau is composed of:\r\n- distilled and dried, sweet and bitter orange peels\r\n- neutral alcohol (comes from agricultural origin : beet, beet molasses, cereals, etc.)\r\n- sugar\r\n- pure water.\"",
-            "created_on": "2011-03-08T10:19:00.000-05:00",
-            "updated_on": "2011-10-04T11:02:43.000-04:00",
-            "status": "Vegan Friendly",
-            "red_yellow_green": "Green"
-        }
-    },
-    {
-        "company": {
             "id": 2276,
             "company_name": "Cold Steel Vodka",
             "tag": "Cold-Steel-Vodka",
@@ -5471,6 +5448,29 @@
             "updated_on": "2018-03-29T06:34:47.000-04:00",
             "status": "Has Some Vegan Options",
             "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
+            "id": 8000,
+            "company_name": "Divas Bererages Holdings Ltd.",
+            "tag": "Divas-Bererages-Holdings-Ltd",
+            "address": "Level 2, 79-85 Oxford Street",
+            "city": "Bondi Junction",
+            "state": "New South Wales",
+            "postal": "2022",
+            "country": "Australia",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.facebook.com/divasbeverages/",
+            "url": "https://divasbeverages.com.au/",
+            "checked_by": "Joanne",
+            "doubled_by": "",
+            "notes": "Company email (September 2020)\r\n\r\n\"I can confirm our products are all vegan.\"",
+            "created_on": "2020-09-07T20:09:36.000-04:00",
+            "updated_on": "2020-09-07T20:09:36.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
         }
     },
     {
@@ -10834,6 +10834,29 @@
     },
     {
         "company": {
+            "id": 1279,
+            "company_name": "Maison Cointreau",
+            "tag": "Maison-Cointreau",
+            "address": "Carrefour Moli\u00e8re",
+            "city": "49124 St Barth\u00e9l\u00e9my d\u2019Anjou",
+            "state": "",
+            "postal": "",
+            "country": "France",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.facebook.com/Cointreau/",
+            "url": "https://www.cointreau.com/int/en/",
+            "checked_by": "Adam",
+            "doubled_by": "Peter, Aaron",
+            "notes": "Company email (September 2020)\r\n\r\n\"we are pleased to confirm that Cointreau Liqueur is suitable for vegetarians and vegans.\"\r\n\r\nCompany email regarding the sugar, June 2011:\r\n\r\n\"We do not use bone char filter[ed sugar] for Cointreau.\"\r\n\r\nCompany Email:\r\n\"We are pleased to inform you that Cointreau does not contain any animal nor animal-derivated products, nor any honey.\r\n\r\nCointreau is composed of:\r\n- distilled and dried, sweet and bitter orange peels\r\n- neutral alcohol (comes from agricultural origin : beet, beet molasses, cereals, etc.)\r\n- sugar\r\n- pure water.\"",
+            "created_on": "2011-03-08T10:19:00.000-05:00",
+            "updated_on": "2020-09-07T18:38:01.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 4623,
             "company_name": "Maison Ferrand",
             "tag": "Maison-Ferrand",
@@ -11725,6 +11748,29 @@
             "notes": "Company email (August 2018)\r\n\r\n\"All of our products are made with certified organic grain and are vegan-friendly except for one product for which I add local raw honey for flavor. Otherwise we do not use any animal ingredients or products in the production or filtration process. Also only we bottle what we produce (not sub-licensees)... Only one of our 22 products has honey in it. It is called: J. Earl Myer Honey Lake (Honey & Lemon Infused Whiskey).\"",
             "created_on": "2018-08-02T18:41:11.000-04:00",
             "updated_on": "2018-08-02T18:41:11.000-04:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
+            "id": 8001,
+            "company_name": "Naoj & Mot",
+            "tag": "Naoj-Mot",
+            "address": "1908 East Passyunk Ave",
+            "city": "Philadelphia",
+            "state": "Pennsylvania",
+            "postal": "19148",
+            "country": "USA",
+            "phone": "215-271-1161",
+            "fax": "",
+            "email": "joaniepollyodd@gmail.com",
+            "url": "http://www.pollyodd.com/",
+            "checked_by": "Kirstyn",
+            "doubled_by": "",
+            "notes": "Company email (September 2020)\r\n\r\n\"Our water based flavors are vegan friendly.Our cream based flavors are made with our own sweetened condensed milk. That is the only animal product used in making Pollyodd. Also we are distilled and bottled only in Philadelphia.\"",
+            "created_on": "2020-09-07T20:20:36.000-04:00",
+            "updated_on": "2020-09-07T20:20:36.000-04:00",
             "status": "Has Some Vegan Options",
             "red_yellow_green": "Yellow"
         }
