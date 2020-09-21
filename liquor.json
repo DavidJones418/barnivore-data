@@ -162,6 +162,29 @@
     },
     {
         "company": {
+            "id": 8010,
+            "company_name": "375 Park Avenue Spirits",
+            "tag": "375-Park-Avenue-Spirits",
+            "address": "",
+            "city": "",
+            "state": "Florida",
+            "postal": "",
+            "country": "USA",
+            "phone": "",
+            "fax": "",
+            "email": "info@375park.com",
+            "url": "https://www.vangoghvodka.com/",
+            "checked_by": "Julie",
+            "doubled_by": "",
+            "notes": "Company email (September 2020)\r\n\r\n\"We will most likely never label it as such, but all Van Gogh Vodkas would be considered Vegan.\"",
+            "created_on": "2020-09-20T10:14:37.000-04:00",
+            "updated_on": "2020-09-20T10:14:37.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 2578,
             "company_name": "42 Below",
             "tag": "42-Below",
@@ -1906,6 +1929,29 @@
             "updated_on": "2014-12-23T22:59:47.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 8012,
+            "company_name": "Belsazar",
+            "tag": "Belsazar",
+            "address": "",
+            "city": "",
+            "state": "",
+            "postal": "",
+            "country": "Germany",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.facebook.com/belsazar.vermouth",
+            "url": "https://www.belsazar.com/",
+            "checked_by": "Simon",
+            "doubled_by": "",
+            "notes": "Company email (September 2020)\r\n\r\n\"We can confirm, that the Belsazar Dry Vermouth is suitable for vegetarians. However, we cannot confirm that this is vegan friendly; due to the egg whites that can be used in the manufacturing process of such wines.\"",
+            "created_on": "2020-09-20T10:26:25.000-04:00",
+            "updated_on": "2020-09-20T10:26:25.000-04:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
         }
     },
     {
@@ -9655,8 +9701,8 @@
             "notes": "Company email (December 2019)\r\n\"All Ketel One vodka and vodka-based products are proudly vegan-friendly and free of animal products or by-products.  Ketel One is distilled using 100% non-GMO grain and yeast.  Our production processes are absent of any animal or animal by-product materials.\"\r\n\r\nCompany email (September 2019)\r\n\"We currently do not test our products to verify that they are Vegan, and therefore, cannot make any claims about its Vegan status. We also are unable to verify if the ingredients used are vegan, as the ingredients of our products are proprietary.\"\r\n\r\nCompany email (December 2011):\r\n\"In response to your inquiry, Ketel One and the Citroen are vegan as the raw materials and manufacturing processes are 100% free of animal ingredients or substances and no animal testing is performed for Ketel One Vodka. Please note that the Citroen flavor used for Ketel One Citroen has been checked as well and this also is free of any animal ingredients or substances.\"\r\n\r\nCompany email (circa 2006)\r\n\"The distillate is filtered through charcoal. To anwser your question, we do not use any animal products during the distillation process of Ketel One. \"",
             "created_on": "2006-08-31T00:21:40.000-04:00",
             "updated_on": "2019-12-22T18:47:13.000-05:00",
-            "status": "Has Some Vegan Options",
-            "red_yellow_green": "Yellow"
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
         }
     },
     {
@@ -14715,6 +14761,29 @@
             "notes": "Company email (July 2018)\r\n\r\n\"All our products are vegan-friendly\"",
             "created_on": "2018-07-13T08:06:39.000-04:00",
             "updated_on": "2018-07-13T08:06:39.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 8015,
+            "company_name": "Spiritless",
+            "tag": "Spiritless",
+            "address": "",
+            "city": "Louisville",
+            "state": "Kentcky",
+            "postal": "",
+            "country": "USA",
+            "phone": "",
+            "fax": "",
+            "email": "hello@spiritless.com",
+            "url": "https://spiritless.com/",
+            "checked_by": "Carter",
+            "doubled_by": "",
+            "notes": "Company email (September 2020)\r\n\r\n\"Yes, we are vegan! Our glycerin is derived from plant products, not animal products.\"",
+            "created_on": "2020-09-20T10:45:08.000-04:00",
+            "updated_on": "2020-09-20T10:45:08.000-04:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
