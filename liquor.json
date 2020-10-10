@@ -7752,6 +7752,29 @@
     },
     {
         "company": {
+            "id": 8041,
+            "company_name": "Great Southern Distilling Company",
+            "tag": "Great-Southern-Distilling-Company",
+            "address": "252 Frenchman Bay Road",
+            "city": "Albany",
+            "state": "Western Australia",
+            "postal": "",
+            "country": "Australia",
+            "phone": "(08) 9842 5363",
+            "fax": "",
+            "email": "info@distillery.com.au",
+            "url": "https://www.distillery.com.au/",
+            "checked_by": "Adam",
+            "doubled_by": "",
+            "notes": "Company email (October 2020)\r\n\r\n\"I\u2019m happy to confirm that our Limeburners Single Malt whisky is completely vegan friendly.\r\n\r\n\"The only place it is produced is our distillery in Albany, so all bottles are made in exactly the same way.\"",
+            "created_on": "2020-10-09T16:32:54.000-04:00",
+            "updated_on": "2020-10-09T16:32:54.000-04:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
             "id": 5294,
             "company_name": "Great West Distillers",
             "tag": "Great-West-Distillers",
