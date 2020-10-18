@@ -15,14 +15,16 @@ jobs:
           ref: data
       - name: Fetch
         run: |
-          for f in beer.json liquor.json wine.json
+          for f in *.json
           do
             curl -Ssf https://www.barnivore.com/$f |
               python3 -m json.tool - $f
           done
-      - name: Commit
-        uses: zwaldowski/git-commit-action@v1
-        with:
-          commit_message: Update from barnivore.com
       - name: Push
-        run: git push
+        if: |
+          ! git diff --quiet --exit-code 
+        run: |
+          git config user.name GitHub Actions
+          git config user.email actions@github.com
+          git commit -am "Update from barnivore.com"
+          git push
