@@ -21,10 +21,11 @@ jobs:
               python3 -m json.tool - $f
           done
       - name: Push
-        if: |
-          ! git diff --quiet --exit-code 
         run: |
-          git config user.name GitHub Actions
-          git config user.email actions@github.com
-          git commit -am "Update from barnivore.com"
-          git push
+          if ! git diff --quiet --exit-code 
+          then
+            git config user.name GitHub Actions
+            git config user.email actions@github.com
+            git commit -am "Update from barnivore.com"
+            git push
+          fi
