@@ -14468,6 +14468,29 @@
     },
     {
         "company": {
+            "id": 8066,
+            "company_name": "Sky Wave Distilling Company Limited",
+            "tag": "Sky-Wave-Distilling-Company-Limited",
+            "address": "The Bucknell Distillery",
+            "city": "Bucknell",
+            "state": "Oxfordshire",
+            "postal": "OX27 7LU",
+            "country": "England",
+            "phone": "01869 713813",
+            "fax": "",
+            "email": "info@skywavegin.com",
+            "url": "https://www.skywavegin.com/",
+            "checked_by": "Carole",
+            "doubled_by": "",
+            "notes": "Company email (October 2020)\r\n\r\n\"Our gin is a vegan friendly product.  One of our friends is a very strict vegan and enjoys our gin regularly.\"",
+            "created_on": "2020-10-26T08:28:44.000-04:00",
+            "updated_on": "2020-10-26T08:28:44.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 77,
             "company_name": "Skyy Vodka",
             "tag": "Skyy-Vodka",
