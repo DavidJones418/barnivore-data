@@ -5222,6 +5222,29 @@
     },
     {
         "company": {
+            "id": 8086,
+            "company_name": "Diego Zamora, S.A.",
+            "tag": "Diego-Zamora-SA",
+            "address": "C / Silicon 10, PI The Camachos",
+            "city": "Cartagena",
+            "state": "",
+            "postal": "30369",
+            "country": "Columbia",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.villamassa.com/contact/",
+            "url": "https://www.villamassa.com/",
+            "checked_by": "Alexandra",
+            "doubled_by": "",
+            "notes": "From their website (https://www.villamassa.com/faqs/, retrieved November 2020)\r\n\r\n\"Is Villa Massa Amaretto suitable for vegans?\r\n\r\n\"Yes, Villa Massa Amaretto is suitable for vegans.\"",
+            "created_on": "2020-11-07T10:51:04.000-05:00",
+            "updated_on": "2020-11-07T10:51:04.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 3453,
             "company_name": "Dillon",
             "tag": "Dillon",
@@ -8994,6 +9017,29 @@
     },
     {
         "company": {
+            "id": 8084,
+            "company_name": "Iconic Brands",
+            "tag": "Iconic-Brands",
+            "address": "27576 Commerce Center Drive Unit 109",
+            "city": "Temecula",
+            "state": "California",
+            "postal": "92590",
+            "country": "USA",
+            "phone": "909-333-4485",
+            "fax": "",
+            "email": "info@deadheadrum.com",
+            "url": "https://deadheadrum.com/",
+            "checked_by": "Carter",
+            "doubled_by": "",
+            "notes": "Company email (November 2020)\r\n\r\n\"Yes, [Deadhead Dark Chocolate rum is vegan.] Our rum is made with sugarcane and molasses, then we add ground Cacao and let it rest for 60 days. We filter and bottle.\"",
+            "created_on": "2020-11-07T10:36:27.000-05:00",
+            "updated_on": "2020-11-07T10:36:27.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 353,
             "company_name": "Ikon True Russian Vodka",
             "tag": "Ikon-True-Russian-Vodka",
@@ -9845,6 +9891,29 @@
     },
     {
         "company": {
+            "id": 8080,
+            "company_name": "K\u014dloa Rum Co.",
+            "tag": "K-loa-Rum-Co",
+            "address": "Kilohana Plantation, 3-2087 Kaumualii Highway",
+            "city": "Lihue",
+            "state": "Hawaii",
+            "postal": "96766",
+            "country": "USA",
+            "phone": "808-246-8900",
+            "fax": "",
+            "email": "https://koloarum.com/contact/",
+            "url": "https://koloarum.com/",
+            "checked_by": "Shannon",
+            "doubled_by": "",
+            "notes": "Company email (November 2020)\r\n\r\n\"We am pleased to advise that none of our Koloa Rum products contain gluten or cereal grains, shellfish, peanuts, soy, eggs, dairy or other animal products.  We provide this information to the best of our knowledge based on a review of our current ingredients, manufacturing processes, and information supplied by our vendors regarding their raw materials, processing, and packaging.\"",
+            "created_on": "2020-11-07T10:21:59.000-05:00",
+            "updated_on": "2020-11-07T10:21:59.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 812,
             "company_name": "Kopparbergs Bryggeri",
             "tag": "Kopparbergs-Bryggeri",
@@ -10388,9 +10457,9 @@
             "url": "http://www.lidl.co.uk/en/index.htm",
             "checked_by": "Nicholas",
             "doubled_by": "Steve, Yvonne, Carla, Graeme, Sheelagh, Derza, Scott, Megan, Matthew, Emma, Jake, Dominic, Natalie, Abbey, Michiel, Jeremy, Aleksandra, Jasmine, Lauren, Abbey, Tom, Riekje, Abbey, Hannah, Chelsea, HG",
-            "notes": "Company email (October 2020)\r\n\r\n\"I have been in contact with our buyer who has confirmed unfortunately none of [the below] wines are vegan.\r\n\r\nL'Escarpe Beaujolais Villages GTIN 20265892\r\nLibertario Tempranillo GTIN 4304493272461\r\nPerfect With Merlot GTIN 4056489208723\r\nMalbec Argentina GTIN 4304493263550 \r\nMerlot California GTIN 4304493263543 (Vineris)\r\nShiraz Australia GTIN 4304493261556 (Vineris)\r\nBordeaux Superior GTIN 4056489102311\r\nBordeaux GTIN 4056489114406\r\nCepa Labrel Rioja GTIN 20234652\"\r\n\r\nCompany email (September 2020) re Libertario La Mancha DO and Chianti Reserva wines\r\n\r\n\"We would like to inform you that both the above mentioned wines are not suitable for vegans.\"\r\n\r\nCompany email (August 2020) re Allini Frizzini Watermelon \r\n\r\n\"We can inform you that the article Cocktail watermelon (EAN code 4056489031468) is not vegan.  In the wine treatment, gelatin is used to remove cloudiness, but the gelatin is then completely removed from the product.  However, since the product has been in contact with the gelatin, we are not allowed to call it vegan.\"\r\n\r\nCompany email (July 2020) re Woodgate Mulled Cider and S\u00f6tma Cider\r\n\r\n\"We have been in contact with our suppliers who would like to inform you that both of these products are suitable for vegans.\" [Woodgate also says vegan on the label now]\r\n\r\nCompany email (July 2020) re Baron del Cega Valdepenas:\r\n\r\n\"We have been in contact with our supplier who would like to inform you that this product is not suitable for vegetarians/vegans.\"\r\n\r\nCompany email (July 2020) re Hungarian Pinot Grigio:\r\n\r\n\"This wine contains no animal ingredients (such as milk/lactose/casein, eggs) and no animal products are used in the processing/filtration of this particular product.\r\n\r\n\"However, our winery does use gelatin based products for other blends that's why we do not claim to be vegan friendly.\"\r\n\r\nCompany email (March 2020) re: Baturrica Tarragona Gran Reserva\r\n\r\n\"We are writing to you in relation to your recent enquiry regarding Baturrica Tarragona Gran Reserva. Please accept our sincere apologies for the delay in correspondence. Thank you for your interest in our products. We have been in contact with our supplier who would like to inform you that the wine do not contain any animal ingredients. It is available for vegans.\"\r\n\r\nCompany email (February 2020) re: Kordaat\r\n\r\n\"Wij kunnen u meedelen dat het artikel al het Kordaat bier (EAN-code 20086237) wordt gebrouwen zonder dierlijke hulpmiddelen. Het is geschikt voor mensen met een veganistisch dieet.\"\r\n\r\n[Google translation: \"We can inform you that the article is all brewed with Kordaat beer (EAN code 20086237) without animal aids. It is suitable for people with a vegan diet.\"]\r\n\r\nCompany email (January 2020)\r\n\r\n\"Our supplier of the Matinelle Italia Chardonnay has confirmed that there are no animal ingredients in this product and it is vegan. However, our supplier of the Cimarosa Australian Chardonnay has stated that they are unable to confirm whether this wine is suitable for vegans as they do not have a definitive statement from their suppliers.\"\r\n\r\nCompany email (December 2019) re S\u00f6tma cider:\r\n\r\n\"I can confirm that I have now received a response from our supplier [of S\u00f6tma] who would like to inform you that... they currently use isinglass as a possessing aid during filtration.\"\r\n\r\nCompany email (December 2019) re Peach Schnapps:\r\n\r\n\"We have been in contact with our supplier who would like to inform you that all ingredients in this product are not originated from animals.\"\r\n\r\nCompany email (November 2019) re Christkindl Gluhwein\r\n\r\n\"Produkt nicht vegan ist.\"\r\n\r\n[Google translation: \"Product is not vegan\"]\r\n\r\nCompany email (November 2019)\r\n\r\n\"Our supplier has advised us that [Conde Noble Spanish Red Wine] is not suitable for vegans.\"\r\n\r\nCompany email (July 2019) re Kordaat\r\n\"Wij kunnen u meedelen dat het artikel Kordaat losse fles (EAN-code 20217907). wel vegetarisch is maar niet vegan.\"\r\n\r\n[Google translation: \"We can inform you that the item Kordaat loose bottle (EAN code 20217907). is vegetarian but not vegan.\"]\r\n\r\nCompany email (May 2019)\r\n\"I am writing to you in relation to your recent enquiry regarding Sauvignon Blanc Marlborough 2017.  Thank you for your interest in our products. I would like to inform you that our supplier is not able definitively confirm that the wine is free from animal components.\"\r\n\r\nCompany email (February 2019)\r\n\"I would like to inform you that [London Dry Gin 37.5%] is suitable for vegans.\"\r\n\r\nCompany email (January 2019)\r\n\"I would like to inform you that [Western Gold Bourbon 6yr old Whiskey] is vegan.\"\r\n\r\nCompany email (November 2018) re: Mulled Wine\r\n\" I would like to inform you that this product is not suitable for vegetarians or vegans are gelatine is used during the filtration of the wine.\"\r\n\r\nCompany email (September 2018)\r\n\"...[Woodgate Dark Fruits Cider] is suitable for vegans, and no animal products are used in its production.\"\r\n\r\nCompany email (September 2018)\r\n\"I would like to inform you that gelatin is used in [Cidre de Normandie].\"\r\n\r\nCompany email (August 2018)\r\n\"I would like to inform you that [Ginger Grizzly Alcoholic Ginger Beer] contains no animal ingredients and as such is vegan and vegetarian friendly.\"\r\n\r\nCompany email (August 2018)\r\n\"We can advise that the Lidl brands: Hampstead, Castelgy, Hortus, Wild Burrow and Ruby of Rangoon are all suitable for vegetarians and vegans.\"\r\n\r\nCompany email (June 2018) re: Deep\r\n\"Ovim putem Vas \u017eelimo obavijestiti da smo dobili potvrdu od dobavlja\u010da kako je na\u0161e \"Deep, Svijetlo pivo, alk. 4,0% vol.\" prikladno za vegane. Pivo ne sadr\u017ei nikakve sastojke \u017eivotinjskog podrijetla niti su oni kori\u0161teni u proizvodnji.\"\r\n\r\n[Google translation: \"This way we would like to inform you that we have received confirmation from our suppliers that our \"Deep, Light Beer, 4.0% vol.\" suitable for vegans. Beer does not contain any ingredients of animal origin nor are they used in production.\"]\r\n\r\nCompany email (January 2018) re Comte de Senneval Brut Champagne\r\n\"Thank you for your interest in our products. I would like to inform you that our supplier has confirmed this product is suitable for Vegans as they use no animal produce in the fining process.\"\r\n\r\nCompany email (November 2017)\r\n\"...I would like to inform you that the product Premium Lager 4.8% does not contain any animal ingredients and that there are no animal products used in the processing/filtration of the product. It is only produced by our supplier in France.\"\r\n\r\nCompany email (November 2017)\r\n\"...I would like to inform you that [Allini Prosecco] is suitable for both vegetarians and vegans\"\r\n\r\nCompany email (July 2016):\r\n\"I would like to inform you that the Hatherwood Ales are not suitable for vegans or vegetarians.\"\r\n\r\nCompany email (February 2016):\r\n\"We write in relation to your query regarding the Bordeaux Superior AOP 2013... we cannot advise that any of our wine suppliers can be classified as vegetarian and/or vegan friendly.\" (Captured at https://twitter.com/frankobserver/status/697759711379193857/photo/1)\r\n\r\nCompany email (April 2015):\r\n\"We refer to your query regarding the James Cook Genuine Overseas Rum 40% you purchased from Lidl. Thank you for your interest in our products. We would like to inform you that the product is suitable for vegans as well as the processing method used.\"",
+            "notes": "Company email (October 2020)\r\n\r\n\"We have been in contact with our supplier who would like to inform you [Rasteau AOP] this particular wine is suitable for vegans. As promised please also find below information from our buyer confirming other wines that are suitable for vegans.\r\n\r\n144782 Rocher Saint-Victor Picpoul de Pinet AOP Blanc\r\n27605 Soave Classico DOP trocken\r\n112884 Pinot Grigio Garda DOP trocken\r\n22603 Gavi DOCG\r\n48641 Prosecco Treviso DOC frizzante [Kolli mit Farbdruck]\r\n28529 Chil. Malbec Reserva Privada (OA)\r\n136436 Garnacha Premium Roble \"Edici\u00f3n Especial\"\r\n25466 Barcelino Tinto DO Catalunya\r\n27023 Cava Brut DO\r\n132030 Good Company Neuseeland Sauvignon Blanc Blush Marlborough Rose (OA)\r\n5217658 Baywood British Rose Wine 5.5%\r\n5217659 Baywood British White Wine 5.5%\r\n5217660 Baywood Summer Berries British Wine 5.5%\r\n5217661 Baywood Tropical Fruits British Wine 5.5%\r\n5218453 New Zealand Sauvignon Blanc Awatere Valley\"\r\n\r\nCompany email (October 2020)\r\n\r\n\"I have been in contact with our buyer who has confirmed unfortunately none of [the below] wines are vegan.\r\n\r\nL'Escarpe Beaujolais Villages GTIN 20265892\r\nLibertario Tempranillo GTIN 4304493272461\r\nPerfect With Merlot GTIN 4056489208723\r\nMalbec Argentina GTIN 4304493263550 \r\nMerlot California GTIN 4304493263543 (Vineris)\r\nShiraz Australia GTIN 4304493261556 (Vineris)\r\nBordeaux Superior GTIN 4056489102311\r\nBordeaux GTIN 4056489114406\r\nCepa Labrel Rioja GTIN 20234652\"\r\n\r\nCompany email (September 2020) re Libertario La Mancha DO and Chianti Reserva wines\r\n\r\n\"We would like to inform you that both the above mentioned wines are not suitable for vegans.\"\r\n\r\nCompany email (August 2020) re Allini Frizzini Watermelon \r\n\r\n\"We can inform you that the article Cocktail watermelon (EAN code 4056489031468) is not vegan.  In the wine treatment, gelatin is used to remove cloudiness, but the gelatin is then completely removed from the product.  However, since the product has been in contact with the gelatin, we are not allowed to call it vegan.\"\r\n\r\nCompany email (July 2020) re Woodgate Mulled Cider and S\u00f6tma Cider\r\n\r\n\"We have been in contact with our suppliers who would like to inform you that both of these products are suitable for vegans.\" [Woodgate also says vegan on the label now]\r\n\r\nCompany email (July 2020) re Baron del Cega Valdepenas:\r\n\r\n\"We have been in contact with our supplier who would like to inform you that this product is not suitable for vegetarians/vegans.\"\r\n\r\nCompany email (July 2020) re Hungarian Pinot Grigio:\r\n\r\n\"This wine contains no animal ingredients (such as milk/lactose/casein, eggs) and no animal products are used in the processing/filtration of this particular product.\r\n\r\n\"However, our winery does use gelatin based products for other blends that's why we do not claim to be vegan friendly.\"\r\n\r\nCompany email (March 2020) re: Baturrica Tarragona Gran Reserva\r\n\r\n\"We are writing to you in relation to your recent enquiry regarding Baturrica Tarragona Gran Reserva. Please accept our sincere apologies for the delay in correspondence. Thank you for your interest in our products. We have been in contact with our supplier who would like to inform you that the wine do not contain any animal ingredients. It is available for vegans.\"\r\n\r\nCompany email (February 2020) re: Kordaat\r\n\r\n\"Wij kunnen u meedelen dat het artikel al het Kordaat bier (EAN-code 20086237) wordt gebrouwen zonder dierlijke hulpmiddelen. Het is geschikt voor mensen met een veganistisch dieet.\"\r\n\r\n[Google translation: \"We can inform you that the article is all brewed with Kordaat beer (EAN code 20086237) without animal aids. It is suitable for people with a vegan diet.\"]\r\n\r\nCompany email (January 2020)\r\n\r\n\"Our supplier of the Matinelle Italia Chardonnay has confirmed that there are no animal ingredients in this product and it is vegan. However, our supplier of the Cimarosa Australian Chardonnay has stated that they are unable to confirm whether this wine is suitable for vegans as they do not have a definitive statement from their suppliers.\"\r\n\r\nCompany email (December 2019) re S\u00f6tma cider:\r\n\r\n\"I can confirm that I have now received a response from our supplier [of S\u00f6tma] who would like to inform you that... they currently use isinglass as a possessing aid during filtration.\"\r\n\r\nCompany email (December 2019) re Peach Schnapps:\r\n\r\n\"We have been in contact with our supplier who would like to inform you that all ingredients in this product are not originated from animals.\"\r\n\r\nCompany email (November 2019) re Christkindl Gluhwein\r\n\r\n\"Produkt nicht vegan ist.\"\r\n\r\n[Google translation: \"Product is not vegan\"]\r\n\r\nCompany email (November 2019)\r\n\r\n\"Our supplier has advised us that [Conde Noble Spanish Red Wine] is not suitable for vegans.\"\r\n\r\nCompany email (July 2019) re Kordaat\r\n\"Wij kunnen u meedelen dat het artikel Kordaat losse fles (EAN-code 20217907). wel vegetarisch is maar niet vegan.\"\r\n\r\n[Google translation: \"We can inform you that the item Kordaat loose bottle (EAN code 20217907). is vegetarian but not vegan.\"]\r\n\r\nCompany email (May 2019)\r\n\"I am writing to you in relation to your recent enquiry regarding Sauvignon Blanc Marlborough 2017.  Thank you for your interest in our products. I would like to inform you that our supplier is not able definitively confirm that the wine is free from animal components.\"\r\n\r\nCompany email (February 2019)\r\n\"I would like to inform you that [London Dry Gin 37.5%] is suitable for vegans.\"\r\n\r\nCompany email (January 2019)\r\n\"I would like to inform you that [Western Gold Bourbon 6yr old Whiskey] is vegan.\"\r\n\r\nCompany email (November 2018) re: Mulled Wine\r\n\" I would like to inform you that this product is not suitable for vegetarians or vegans are gelatine is used during the filtration of the wine.\"\r\n\r\nCompany email (September 2018)\r\n\"...[Woodgate Dark Fruits Cider] is suitable for vegans, and no animal products are used in its production.\"\r\n\r\nCompany email (September 2018)\r\n\"I would like to inform you that gelatin is used in [Cidre de Normandie].\"\r\n\r\nCompany email (August 2018)\r\n\"I would like to inform you that [Ginger Grizzly Alcoholic Ginger Beer] contains no animal ingredients and as such is vegan and vegetarian friendly.\"\r\n\r\nCompany email (August 2018)\r\n\"We can advise that the Lidl brands: Hampstead, Castelgy, Hortus, Wild Burrow and Ruby of Rangoon are all suitable for vegetarians and vegans.\"\r\n\r\nCompany email (June 2018) re: Deep\r\n\"Ovim putem Vas \u017eelimo obavijestiti da smo dobili potvrdu od dobavlja\u010da kako je na\u0161e \"Deep, Svijetlo pivo, alk. 4,0% vol.\" prikladno za vegane. Pivo ne sadr\u017ei nikakve sastojke \u017eivotinjskog podrijetla niti su oni kori\u0161teni u proizvodnji.\"\r\n\r\n[Google translation: \"This way we would like to inform you that we have received confirmation from our suppliers that our \"Deep, Light Beer, 4.0% vol.\" suitable for vegans. Beer does not contain any ingredients of animal origin nor are they used in production.\"]\r\n\r\nCompany email (January 2018) re Comte de Senneval Brut Champagne\r\n\"Thank you for your interest in our products. I would like to inform you that our supplier has confirmed this product is suitable for Vegans as they use no animal produce in the fining process.\"\r\n\r\nCompany email (November 2017)\r\n\"...I would like to inform you that the product Premium Lager 4.8% does not contain any animal ingredients and that there are no animal products used in the processing/filtration of the product. It is only produced by our supplier in France.\"\r\n\r\nCompany email (November 2017)\r\n\"...I would like to inform you that [Allini Prosecco] is suitable for both vegetarians and vegans\"\r\n\r\nCompany email (July 2016):\r\n\"I would like to inform you that the Hatherwood Ales are not suitable for vegans or vegetarians.\"\r\n\r\nCompany email (February 2016):\r\n\"We write in relation to your query regarding the Bordeaux Superior AOP 2013... we cannot advise that any of our wine suppliers can be classified as vegetarian and/or vegan friendly.\" (Captured at https://twitter.com/frankobserver/status/697759711379193857/photo/1)\r\n\r\nCompany email (April 2015):\r\n\"We refer to your query regarding the James Cook Genuine Overseas Rum 40% you purchased from Lidl. Thank you for your interest in our products. We would like to inform you that the product is suitable for vegans as well as the processing method used.\"",
             "created_on": "2015-05-06T20:52:37.000-04:00",
-            "updated_on": "2020-10-14T10:19:44.000-04:00",
+            "updated_on": "2020-11-07T11:10:30.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -11008,10 +11077,10 @@
             "email": "marketing@cognacferrand.com",
             "url": "http://maisonferrand.com/",
             "checked_by": "Kristopher",
-            "doubled_by": "",
-            "notes": "Company email (June 2016)\r\n\r\n\"Our Plantation Rums do not contain any animal ingredients and we don't use animal products during the process. In this way, our rums can be consume by vegans. We all use the same process, no need to worry ! The same is true for our other brands such as Pierre Ferrand and Citadelle.\"",
+            "doubled_by": "plant_check",
+            "notes": "Company email (November 2020)\r\n\r\n\"The answer is no, they do not contain any animal ingredients. Our products are VEGAN/VEGETARIAN compatible.\"\r\n\r\nCompany email (June 2016)\r\n\r\n\"Our Plantation Rums do not contain any animal ingredients and we don't use animal products during the process. In this way, our rums can be consume by vegans. We all use the same process, no need to worry ! The same is true for our other brands such as Pierre Ferrand and Citadelle.\"",
             "created_on": "2016-06-02T09:29:34.000-04:00",
-            "updated_on": "2016-06-02T09:29:34.000-04:00",
+            "updated_on": "2020-11-07T10:44:43.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -11957,6 +12026,29 @@
             "updated_on": "2016-02-07T09:47:15.000-05:00",
             "status": "Has Some Vegan Options",
             "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
+            "id": 8079,
+            "company_name": "Nero Drinks Company Ltd.",
+            "tag": "Nero-Drinks-Company-Ltd",
+            "address": "Unit 20310, PO Box 6945",
+            "city": "London",
+            "state": "",
+            "postal": "W1A 6US",
+            "country": "England",
+            "phone": "+44 333 4442310",
+            "fax": "",
+            "email": "https://www.nerovodka.com/contact-us/",
+            "url": "https://www.nerovodka.com/",
+            "checked_by": "Company",
+            "doubled_by": "",
+            "notes": "Company email (November 2020)\r\n\r\n\"Nero recently went through the vigorous process of being registered with the Vegan Society and is proud to now be recognised as a vegan product.\"",
+            "created_on": "2020-11-07T10:18:23.000-05:00",
+            "updated_on": "2020-11-07T10:18:23.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
         }
     },
     {
