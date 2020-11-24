@@ -14514,6 +14514,29 @@
     },
     {
         "company": {
+            "id": 8111,
+            "company_name": "Skinny Mixes, LLC.",
+            "tag": "Skinny-Mixes-LLC",
+            "address": "2849 Executive Dr",
+            "city": "Clearwater",
+            "state": "Florida",
+            "postal": "33762",
+            "country": "USA",
+            "phone": "",
+            "fax": "",
+            "email": "customerservice@skinnymixes.com",
+            "url": "https://www.skinnymixes.com/",
+            "checked_by": "Marie",
+            "doubled_by": "",
+            "notes": "From their website (https://www.skinnymixes.com/pages/faqs, retrieved November 2020)\r\n\r\n\"ARE YOUR PRODUCTS DAIRY FREE/VEGAN?\r\n\r\n\"The only products that contain Dairy are the Cookie Dough Syrup and the Whipped Foams. All other products are suitable for a Vegetarian/Vegan lifestyle.\"",
+            "created_on": "2020-11-22T20:44:54.000-05:00",
+            "updated_on": "2020-11-22T20:44:54.000-05:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
             "id": 6982,
             "company_name": "SkinnyBrands Ltd",
             "tag": "SkinnyBrands-Ltd",
