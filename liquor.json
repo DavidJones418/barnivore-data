@@ -14445,6 +14445,29 @@
     },
     {
         "company": {
+            "id": 8123,
+            "company_name": "Signature Brands",
+            "tag": "Signature-Brands",
+            "address": "Unit 3, Stainburn Road, Openshaw",
+            "city": "Manchester",
+            "state": "",
+            "postal": "M11 2DN",
+            "country": "England",
+            "phone": "",
+            "fax": "",
+            "email": "signaturebrands@lwc-drinks.co.uk",
+            "url": "https://www.lwc-drinks.co.uk/oldj/",
+            "checked_by": "Oliver",
+            "doubled_by": "",
+            "notes": "Company email (December 2020)\r\n\r\n\"So the whole Old J collection is vegan friendly, with no animal deprived products in any of our products. We also only have one supplier who makes every bottle, we have no sub licensed manufacturers anywhere in the world.\"",
+            "created_on": "2020-12-06T15:46:28.000-05:00",
+            "updated_on": "2020-12-06T15:46:28.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 5772,
             "company_name": "Silent Pool Distillers",
             "tag": "Silent-Pool-Distillers",
