@@ -1450,6 +1450,29 @@
     },
     {
         "company": {
+            "id": 8142,
+            "company_name": "B&M Retail",
+            "tag": "B-M-Retail",
+            "address": "The Vault, Dakota Drive, Estuary Commerce Park, Speke",
+            "city": "Liverpool",
+            "state": "",
+            "postal": "L24 8RJ",
+            "country": "England",
+            "phone": "",
+            "fax": "",
+            "email": "enquiries@bmstores.co.uk",
+            "url": "https://www.bmstores.co.uk/",
+            "checked_by": "Jarrad",
+            "doubled_by": "",
+            "notes": "Company email (December 2020)\r\n\r\n\"I can confirm Brambles gin is suitable for vegans\"",
+            "created_on": "2020-12-13T21:05:40.000-05:00",
+            "updated_on": "2020-12-13T21:05:40.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 1633,
             "company_name": "BABCO Europe Limited",
             "tag": "BABCO-Europe-Limited",
@@ -5722,6 +5745,29 @@
             "notes": "Company Email:\r\n\"In regards to your inquiry, please be advised that Don Julio Tequilas does not contain or used animal products; therefore we can say that our products, all of them are vegan.\"",
             "created_on": "2010-03-23T12:09:00.000-04:00",
             "updated_on": "2010-04-01T13:09:36.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 8137,
+            "company_name": "Don Papa Rum",
+            "tag": "Don-Papa-Rum",
+            "address": "",
+            "city": "",
+            "state": "",
+            "postal": "",
+            "country": "Phillipines",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.facebook.com/DonPapaRum/",
+            "url": "https://www.donpaparum.com/",
+            "checked_by": "Holly",
+            "doubled_by": "",
+            "notes": "Company email (November 2020)\r\n\r\n\"I am happy to inform you that Don Papa Rum is a vegan-friendly product & does not contain any of the ingredients you have indicated.  Our product is bottled using systems that do not compromise vegan consumption.\"",
+            "created_on": "2020-12-13T20:22:34.000-05:00",
+            "updated_on": "2020-12-13T20:22:34.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -15957,6 +16003,29 @@
             "notes": "Company email (November 2018)\r\n\"I have looked into the question you have put forward and found that the Tesco Fruity Red Wine 75Cl is not suitable for Vegans, I am really sorry to say.\"\r\n\r\nCompany email (November 2018) re Tesco Soave 2017:\r\n\r\n\"Yes this product is suitable for vegans according to the specification\"\r\n\r\nSareta notes (December 2017) that the Tesco Finest Chateauneuf-du-Pape's web listing says it contains milk and eggs.\r\n\r\nCompany email (November 2017) re Coteaux d\u2019aux en Provence Ros\u00e9\r\n\"It seems that the info on Tesco.com/groceries is for the 2015 vintage which was suitable for vegetarians but not vegans. This may be because stores will most likely still be stocking the 2015 vintage. Here at Wine by the Case we have moved on to 2016 and therefore can categorically state that the wine is vegan-friendly and so both logos are on the website for this product\"\r\n\r\nNatalie notes (November 2017)\r\n\"Tesco have confirmed that Bella Cucina Prosecco is vegan friendly\"\r\n\r\nUpdated (October 2017) to include Wairau Cove wines, which according to the Tesco website contain milk.\r\n\r\nSteve notes (August 2017) that according to https://www.tesco.com/groceries/product/details/?id=296394362 the Tesco Limestone Coast Shiraz contains milk.\r\n\r\nHannah notes (June 2017) that despite being marked as vegan on their website, the Tesco finest Ch\u00e2teauneuf-du-Pape 75cl, Tesco finest* Marlborough Pinot Noir 75cl, and the Tesco finest* Breede River Sauvignon Blanc 75cl all say they contain milk and eggs in the allergen warning.\r\n\r\nCompany email (April 2017) re: Tesco Finest Medoc\r\n\"My support team have confirmed not suitable for vegans at all and the product is not produced anywhere else.\"\r\n\r\nMariza notes (January 2017)\r\n\"I emailed them to see which of their own brand products are vegan and they sent me the attached list, hope this helps\"\r\n\r\nCompany email (October 2016) re: Tesco Apple Cider\r\n\"I have spoken with our support team and I\u2019m happy to advise that the Tesco Apple Cider is suitable for vegans.\"\r\n\r\nCompany email (August 2015):\r\n\"Unfortunately [Tesco India Pale Ale] is not suitable for vegans because fish by-products are used as part of the manufacturing process.  \r\n\r\n\"This is a traditional processing aid and is used in the manufacture of many of our beers and ales, however our Single Hopped Kentish Ale and our American Double IPA are made using carrageenan (a seaweed extract) instead and hence both are suitable for vegans.\"\r\n\r\nCompany email (August 2015):\r\n\"I have received a response from our Support Team and they have informed me that that our Tesco Special Reserve Scotch Whisky does not contain any animal ingredients and it is suitable for vegans.\"\r\n\r\nCompany email (July 2015):\r\n\"I have looked into this query for you and I can confirm that the Tesco Apple Cider 2 Litres is suitable for Vegetarians and Vegans.\"\r\n\r\nCompany email (March 2015):\r\n\"Regarding your query about the Simply Beers, I can confirm that none of them are suitable for Vegetarians or Vegans I'm afraid.\"\r\n",
             "created_on": "2015-06-07T17:57:15.000-04:00",
             "updated_on": "2018-12-02T09:59:03.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 8136,
+            "company_name": "Tesseron Cognac",
+            "tag": "Tesseron-Cognac",
+            "address": "2 boulevard Charles Franc",
+            "city": "16120 Ch\u00e2teauneuf-sur-Charente",
+            "state": "",
+            "postal": "",
+            "country": "France",
+            "phone": "+ 33 (0) 5 45 62 52 61",
+            "fax": "+ 33 (0) 5 45 62 51 62",
+            "email": "info@tesseroncognac.com",
+            "url": "https://tesseroncognac.com/",
+            "checked_by": "James",
+            "doubled_by": "",
+            "notes": "Company email (November 2020)\r\n\r\n\"I can confirm our Cognacs are vegan friendly. Our Cognacs do not contain nor come in contact with any animal ingredient during their elaboration. They are then filtered on a sheet of cellulose.\"",
+            "created_on": "2020-12-13T20:17:34.000-05:00",
+            "updated_on": "2020-12-13T20:17:34.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
