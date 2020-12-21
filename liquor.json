@@ -4854,6 +4854,29 @@
     },
     {
         "company": {
+            "id": 8144,
+            "company_name": "Cut Rum Company Inc.",
+            "tag": "Cut-Rum-Company-Inc",
+            "address": "",
+            "city": "Brighton",
+            "state": "",
+            "postal": "",
+            "country": "England",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.cutrum.com/contact",
+            "url": "https://www.cutrum.com/",
+            "checked_by": "Ed",
+            "doubled_by": "",
+            "notes": "Company email (December 2020)\r\n\r\n\"All CUT RUM products are classed as suitable for a vegan and vegetarian diet\"",
+            "created_on": "2020-12-20T15:39:44.000-05:00",
+            "updated_on": "2020-12-20T15:39:44.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 398,
             "company_name": "Cutty Sark",
             "tag": "Cutty-Sark",
@@ -13975,10 +13998,10 @@
             "email": "https://www.rossidasiago.com/en/contacts/",
             "url": "https://www.rossidasiago.com/",
             "checked_by": "Tom",
-            "doubled_by": "",
-            "notes": "Company email (March 2020)\r\n\r\n\"Siamo felici di confermarle che Limoncello Rossi d'Asiago \u00e8 adatto ai vegani, in quanto: \r\n\r\n- non contiene ingredienti di origine animale; \r\n- nella sua produzione (incluso filtraggio, trattamento, imbottigliamente, etichettatura) non vengono impiegati prodotti di derivazione animale.\"\r\n\r\n[Google translation: \"We are happy to confirm that Limoncello Rossi d'Asiago is suitable for vegans, as:\r\n\r\n- does not contain ingredients of animal origin;\r\n- in its production (including filtering, treatment, bottling, labeling) no animal products are used.\"]",
+            "doubled_by": "Daniel",
+            "notes": "Company email (December 2020)\r\n\r\n\"We are happy to confirm that Antica Sambuca Classic and the Antica Sambuca flavoured-Liqueurs are all suitable for vegans: our products do not contain ingredients or sourced materials that contain animal or animal by-products. We also don't use any animal products in our production process, including filtering.\"\r\n\r\nCompany email (March 2020)\r\n\r\n\"Siamo felici di confermarle che Limoncello Rossi d'Asiago \u00e8 adatto ai vegani, in quanto: \r\n\r\n- non contiene ingredienti di origine animale; \r\n- nella sua produzione (incluso filtraggio, trattamento, imbottigliamente, etichettatura) non vengono impiegati prodotti di derivazione animale.\"\r\n\r\n[Google translation: \"We are happy to confirm that Limoncello Rossi d'Asiago is suitable for vegans, as:\r\n\r\n- does not contain ingredients of animal origin;\r\n- in its production (including filtering, treatment, bottling, labeling) no animal products are used.\"]",
             "created_on": "2020-03-08T11:28:38.000-04:00",
-            "updated_on": "2020-03-08T11:28:38.000-04:00",
+            "updated_on": "2020-12-20T15:48:48.000-05:00",
             "status": "Has Some Vegan Options",
             "red_yellow_green": "Yellow"
         }
