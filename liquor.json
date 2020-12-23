@@ -2531,6 +2531,29 @@
     },
     {
         "company": {
+            "id": 8147,
+            "company_name": "Boar Distillery",
+            "tag": "Boar-Distillery",
+            "address": "Breitsodstra\u00dfe 4",
+            "city": "Bad Peterstal",
+            "state": "",
+            "postal": "77740",
+            "country": "Germany",
+            "phone": "+49 7806 992 94 66",
+            "fax": "",
+            "email": "info@boargin.de",
+            "url": "https://boargin.de/",
+            "checked_by": "Yenny",
+            "doubled_by": "",
+            "notes": "Company email (December 2020)\r\n\r\n\"unser Gin ist vegan.\"\r\n\r\n[Translation: \"our gin is vegan\"]",
+            "created_on": "2020-12-21T20:44:21.000-05:00",
+            "updated_on": "2020-12-21T20:44:21.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 164,
             "company_name": "Bombay Sapphire Gin",
             "tag": "Bombay-Sapphire-Gin",
@@ -13841,6 +13864,29 @@
             "notes": "Company email (August 2020)\r\n\r\n\"I can confirm there is no animal ingredients in the produce or process.\"\r\n\r\nCompany email (October 2012):\r\n\"Reyka does not contain any animal ingredients  and no animal ingredients are used as part of the production process.\r\n \r\nReyka is manufactured in-house so we have complete control and visibility of production quality and standards.\"\r\n",
             "created_on": "2012-10-16T21:55:17.000-04:00",
             "updated_on": "2020-08-30T17:04:26.000-04:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 8148,
+            "company_name": "Rheinland Distillers GmbH",
+            "tag": "Rheinland-Distillers-GmbH",
+            "address": "Mozartstr. 24",
+            "city": "Bonn",
+            "state": "",
+            "postal": "53115",
+            "country": "Germany",
+            "phone": "+49 (228) 24992504",
+            "fax": "+49 (228) 694102",
+            "email": "info@rheinlanddistillers.com",
+            "url": "https://www.siegfriedgin.com/",
+            "checked_by": "Yenny",
+            "doubled_by": "",
+            "notes": "Company email (December 2020)\r\n\r\n\"ja, sowohl der Siegfried Gin als auch der Siegfried Wonderleaf sind beide vegan.\"\r\n\r\n[Google translation: \"yes, both the Siegfried Gin and the Siegfried Wonderleaf are both vegan.\"]",
+            "created_on": "2020-12-21T20:47:25.000-05:00",
+            "updated_on": "2020-12-21T20:47:25.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
