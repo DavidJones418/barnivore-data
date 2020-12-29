@@ -1841,29 +1841,6 @@
     },
     {
         "company": {
-            "id": 1744,
-            "company_name": "Battle Cider",
-            "tag": "Battle-Cider",
-            "address": "9 St Marys Terrace Battle",
-            "city": "East Sussex",
-            "state": "",
-            "postal": "TN33 0BU",
-            "country": "England",
-            "phone": "07958 943 151 / 01424 774 821",
-            "fax": "",
-            "email": "andrew@battlecider.com",
-            "url": "http://www.battlecider.com/",
-            "checked_by": "Philippa",
-            "doubled_by": "",
-            "notes": "Company email (September 2011): \r\n\r\n\"Yes should be vegan, no additives\"",
-            "created_on": "2011-09-26T06:45:07.000-04:00",
-            "updated_on": "2011-09-26T06:45:07.000-04:00",
-            "status": "Vegan Friendly",
-            "red_yellow_green": "Green"
-        }
-    },
-    {
-        "company": {
             "id": 7894,
             "company_name": "Baxter Vodka",
             "tag": "Baxter-Vodka",
@@ -11787,15 +11764,15 @@
             "country": "Finland",
             "phone": "",
             "fax": "",
-            "email": "www@pernod-ricard-finland.com",
-            "url": "http://www.pernod-ricard.com/",
+            "email": "https://minttuspirit.com/contact-us",
+            "url": "https://minttuspirit.com/",
             "checked_by": "Hanna",
-            "doubled_by": "",
-            "notes": "Company email (September 2012):\r\n\"I am happy to confirm that Minttu contains no animal ingredients . So Minttu suits vegan diet.\r\nAll Minttu is manufactured and bottled in Turku, Finland.\"\r\n",
+            "doubled_by": "Marina",
+            "notes": "Company email (December 2020)\r\n\r\n\"All of our Minttu liqueurs are vegan, only our ready-to-drink product Minttu Cool Mint Choco 4% is not vegan as it contains cream.\"\r\n\r\nCompany email (September 2012):\r\n\r\n\"I am happy to confirm that Minttu contains no animal ingredients . So Minttu suits vegan diet. All Minttu is manufactured and bottled in Turku, Finland.\"\r\n",
             "created_on": "2012-09-16T09:15:34.000-04:00",
-            "updated_on": "2012-09-16T09:41:28.000-04:00",
-            "status": "Vegan Friendly",
-            "red_yellow_green": "Green"
+            "updated_on": "2020-12-28T14:20:31.000-05:00",
+            "status": "Has Some Vegan Options",
+            "red_yellow_green": "Yellow"
         }
     },
     {
