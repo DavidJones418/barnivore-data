@@ -691,6 +691,29 @@
     },
     {
         "company": {
+            "id": 8182,
+            "company_name": "Altia Denmark A/S",
+            "tag": "Altia-Denmark-A-S",
+            "address": "Bredevej 2c",
+            "city": "2830 Virum",
+            "state": "",
+            "postal": "",
+            "country": "Denmark",
+            "phone": "",
+            "fax": "",
+            "email": "hello@nordicspirits.com",
+            "url": "http://koskenkorva.com/",
+            "checked_by": "Marina",
+            "doubled_by": "",
+            "notes": "Via their instagram (https://www.instagram.com/p/BoRHzEBAza4/, retrieved January 2021)\r\n\r\n\"Hey there you vegan, non-vegan, sometimes-vegan, never-vegan. Our product is for all of you. Always has been.\"",
+            "created_on": "2021-01-03T16:16:42.000-05:00",
+            "updated_on": "2021-01-03T16:16:42.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 3425,
             "company_name": "Altia Plc",
             "tag": "Altia-Plc",
@@ -11351,12 +11374,12 @@
             "phone": "0333 014 8423",
             "fax": "",
             "email": "http://www.marksandspencer.com/s/contact-us",
-            "url": "http://www.marksandspencer.com/",
+            "url": "https://www.marksandspencer.com/",
             "checked_by": "Shane",
-            "doubled_by": "Jemma, Katy, Anthony, Ella, Warren, Marli, Christian",
-            "notes": "Company email (October 2019) from Oakham:\r\n\r\n\"The beers we brew for M&S are vegan friendly however \u2013 with no isinglass used in processing.\r\n\r\n\"These are as follows:\r\n\r\n\"M&S Cambridgeshire Golden Ale (4.2%) \u2013 500ml Bottle\r\nM&S Citra IPA (4.9%) \u2013 500ml Bottle\r\nM&S Citra IPA (4.9%) \u2013 500ml Can\r\nM&S Double Hopped Citra IPA (5.9%) \u2013 330ml Can\"\r\n\r\nCompany email (August 2019) re R\u00e9serve de la Saurine:\r\n\r\n\"I have checked our systems and can confirm that there is none of these ingredients present in the final product and it is marked as being free from Milk, Lactose and is also suitable for Vegans.\"\r\n\r\nAdded beers & Ciders from a spreadsheet received from Warren (October 2018)\r\n\r\nElla notes (December 2017) that Burra Brook Shiraz has a vegan logo on the back label.\r\n\r\nAnthony notes (April 2017) that the Dolphon Bay Merlot has a vegan logo on the back label.\r\n\r\nKaty points out (December 2016) that the Abel Charlot Brut NV is listed as vegan friendly on their website.\r\n\r\nJemma points out (November 2016) that the Rosso 2013 Puglia says it's suitable for vegans and vegetarians on the bottle.\r\n\r\nCompany email (November 2016) re Gold Cr\u00e8me brulee liqueur:\r\n\r\n\"I can confirm that the gold creme brulee liqueur is completely suitable for vegans. It contains no animal derivatives and is manufactured in a uncontaminated area. The supplier is based in France and adheres to all laws regarding the correct manufacturing and packaging of vegetarian and vegan items.\"\r\n\r\n[Product also says \"Suitable for Vegetarians and Vegans\" on http://www.marksandspencer.com/gold-crme-brulee-liqueur-case-of-6/p/p60093630?OmnitureRedirect=creme+brulee&pdpredirect, retrieved Nov 15 2016]",
+            "doubled_by": "Jemma, Katy, Anthony, Ella, Warren, Marli, Christian, Donna",
+            "notes": "Donna notes (December 2020) that the Pink Port NV is marked as vegan on the label.\r\n\r\nCompany email (October 2019) from Oakham:\r\n\r\n\"The beers we brew for M&S are vegan friendly however \u2013 with no isinglass used in processing.\r\n\r\n\"These are as follows:\r\n\r\n\"M&S Cambridgeshire Golden Ale (4.2%) \u2013 500ml Bottle\r\nM&S Citra IPA (4.9%) \u2013 500ml Bottle\r\nM&S Citra IPA (4.9%) \u2013 500ml Can\r\nM&S Double Hopped Citra IPA (5.9%) \u2013 330ml Can\"\r\n\r\nCompany email (August 2019) re R\u00e9serve de la Saurine:\r\n\r\n\"I have checked our systems and can confirm that there is none of these ingredients present in the final product and it is marked as being free from Milk, Lactose and is also suitable for Vegans.\"\r\n\r\nAdded beers & Ciders from a spreadsheet received from Warren (October 2018)\r\n\r\nElla notes (December 2017) that Burra Brook Shiraz has a vegan logo on the back label.\r\n\r\nAnthony notes (April 2017) that the Dolphon Bay Merlot has a vegan logo on the back label.\r\n\r\nKaty points out (December 2016) that the Abel Charlot Brut NV is listed as vegan friendly on their website.\r\n\r\nJemma points out (November 2016) that the Rosso 2013 Puglia says it's suitable for vegans and vegetarians on the bottle.\r\n\r\nCompany email (November 2016) re Gold Cr\u00e8me brulee liqueur:\r\n\r\n\"I can confirm that the gold creme brulee liqueur is completely suitable for vegans. It contains no animal derivatives and is manufactured in a uncontaminated area. The supplier is based in France and adheres to all laws regarding the correct manufacturing and packaging of vegetarian and vegan items.\"\r\n\r\n[Product also says \"Suitable for Vegetarians and Vegans\" on http://www.marksandspencer.com/gold-crme-brulee-liqueur-case-of-6/p/p60093630?OmnitureRedirect=creme+brulee&pdpredirect, retrieved Nov 15 2016]",
             "created_on": "2016-11-15T10:01:59.000-05:00",
-            "updated_on": "2019-11-03T10:56:55.000-05:00",
+            "updated_on": "2021-01-03T13:54:45.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -11399,10 +11422,10 @@
             "email": "http://www.martini.com/global/en/contact",
             "url": "http://www.martini.com/",
             "checked_by": "Ronald",
-            "doubled_by": "Phillipe, Justin, Christine, Stevie, Serena, Stephanie, Freya",
-            "notes": "Company email (February 2020)\r\n\r\n\"As per your request, please be advised that MARTINI & ROSSI products contain trace amounts of animal-by products or ingredients.\"\r\n\r\nCompany email (January 2020)\r\n\r\n\"Thank you for your patience while we looked into your inquiry and we would like to apologize for the delay in obtaining this information. No Wine or Wine-based products sold under any of the Bacardi-Martini brands is suitable for vegetarian or vegan diet due to the fact that wines and base-wines are usually fined with gelatin of animal origin. Martini Bitter contains E 120 which is a colorant of animal origin.\"\r\n\r\nCompany email (July 2017)\r\n\"...please be advised that all Martini Vermouths contain trace amounts of animal-by products or ingredients.\"\r\n\r\nCompany email (April 2013):\r\n\"As per your request, please be advised that all MARTINI & ROSSI Vermouths contain trace amounts of animal-by products or ingredients. If you still have questions, we suggest you contact your doctor as to whether or not you should consume such beverage products before consumption.\"\r\n\r\nCompany email: Feb 2011\r\n\"As per your request, please be advised that all MARTINI & ROSSI Vermouths contain trace amounts of animal-by products or ingredients.  If you still have questions, we suggest you contact your doctor as to whether or not you should consume such beverage products before consumption.\"\r\n\r\nCompany email: April 2009\r\n\"Thank you for your recent inquiry.  As per your request, please be advised that MARTINI & ROSSI Extra Dry Vermouths contain trace amounts of animal-by products or ingredients.  If you still have questions, we suggest you contact your doctor as to whether or not you should consume such beverage products before consumption.\"\r\n\r\nCompany email: Feb 2008\r\nThank you for your inquiry regarding the suitability of Martini for Vegans.  I am sorry to say that Martini is not suitable for a vegan or vegetarian diet.",
+            "doubled_by": "Phillipe, Justin, Christine, Stevie, Serena, Stephanie, Freya, Genevi\u00e8ve",
+            "notes": "Company email (December 2020)\r\n\r\n\"As per your request, please be advised that MARTINI & ROSSI products contain trace amounts of animal-by products or ingredients.\"\r\n\r\nCompany email (February 2020)\r\n\r\n\"As per your request, please be advised that MARTINI & ROSSI products contain trace amounts of animal-by products or ingredients.\"\r\n\r\nCompany email (January 2020)\r\n\r\n\"Thank you for your patience while we looked into your inquiry and we would like to apologize for the delay in obtaining this information. No Wine or Wine-based products sold under any of the Bacardi-Martini brands is suitable for vegetarian or vegan diet due to the fact that wines and base-wines are usually fined with gelatin of animal origin. Martini Bitter contains E 120 which is a colorant of animal origin.\"\r\n\r\nCompany email (July 2017)\r\n\"...please be advised that all Martini Vermouths contain trace amounts of animal-by products or ingredients.\"\r\n\r\nCompany email (April 2013):\r\n\"As per your request, please be advised that all MARTINI & ROSSI Vermouths contain trace amounts of animal-by products or ingredients. If you still have questions, we suggest you contact your doctor as to whether or not you should consume such beverage products before consumption.\"\r\n\r\nCompany email: Feb 2011\r\n\"As per your request, please be advised that all MARTINI & ROSSI Vermouths contain trace amounts of animal-by products or ingredients.  If you still have questions, we suggest you contact your doctor as to whether or not you should consume such beverage products before consumption.\"\r\n\r\nCompany email: April 2009\r\n\"Thank you for your recent inquiry.  As per your request, please be advised that MARTINI & ROSSI Extra Dry Vermouths contain trace amounts of animal-by products or ingredients.  If you still have questions, we suggest you contact your doctor as to whether or not you should consume such beverage products before consumption.\"\r\n\r\nCompany email: Feb 2008\r\nThank you for your inquiry regarding the suitability of Martini for Vegans.  I am sorry to say that Martini is not suitable for a vegan or vegetarian diet.",
             "created_on": "2008-02-17T23:42:00.000-05:00",
-            "updated_on": "2020-02-22T10:05:52.000-05:00",
+            "updated_on": "2021-01-03T17:19:21.000-05:00",
             "status": "Not Vegan friendly",
             "red_yellow_green": "Yellow"
         }
@@ -14780,10 +14803,10 @@
             "email": "info@skrewballwhiskey.com",
             "url": "https://www.skrewballwhiskey.com/",
             "checked_by": "Ben",
-            "doubled_by": "",
-            "notes": "Company email (May 2019)\r\n\r\n\"Yes, Skrewball is vegan.\"",
+            "doubled_by": "Kristin",
+            "notes": "Company email (December 2020)\r\n\r\n\"Skrewball vegan friendly! We do not use any animal products and we only have 1 small facility producing it here in California.\"\r\n\r\nCompany email (May 2019)\r\n\r\n\"Yes, Skrewball is vegan.\"",
             "created_on": "2019-05-13T09:31:03.000-04:00",
-            "updated_on": "2019-05-13T09:31:03.000-04:00",
+            "updated_on": "2021-01-03T16:57:14.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
