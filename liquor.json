@@ -6234,6 +6234,29 @@
     },
     {
         "company": {
+            "id": 8193,
+            "company_name": "El Bandarra S.L.",
+            "tag": "El-Bandarra-SL",
+            "address": "",
+            "city": "",
+            "state": "Catalonia",
+            "postal": "",
+            "country": "Spain",
+            "phone": "7901 006500",
+            "fax": "",
+            "email": "info@elbandarra.com",
+            "url": "https://elbandarra.com/en/",
+            "checked_by": "Tyler",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"El Bandarra is Vegan, however we are waiting on our certification which has been delayed due to the pandemic.\"",
+            "created_on": "2021-01-16T17:04:30.000-05:00",
+            "updated_on": "2021-01-16T17:04:30.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 6913,
             "company_name": "El Silencio Holdings, Inc",
             "tag": "El-Silencio-Holdings-Inc",
