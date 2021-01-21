@@ -6970,6 +6970,29 @@
     },
     {
         "company": {
+            "id": 8209,
+            "company_name": "Founder's Original",
+            "tag": "Founders-Original",
+            "address": "51 Mill Street, Suite 203",
+            "city": "Toronto",
+            "state": "Ontario",
+            "postal": "M5A 3C4",
+            "country": "Canada",
+            "phone": "",
+            "fax": "",
+            "email": "https://www.foundersoriginal.com/contact",
+            "url": "https://www.foundersoriginal.com/",
+            "checked_by": "Simon",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"yes [our products] are [vegan]\"",
+            "created_on": "2021-01-20T20:23:14.000-05:00",
+            "updated_on": "2021-01-20T20:23:14.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 6629,
             "company_name": "Four Fights Distilling",
             "tag": "Four-Fights-Distilling",
@@ -18579,6 +18602,29 @@
             "notes": "Ivy notes (January 2020)\r\n\r\n\"I have had email communication directly with Tammy, one of the owners of the brand, and she confirmed with me that they make, distill, and filter their vodka without the use of any animal products or byproducts whatsoever.\"",
             "created_on": "2020-01-25T10:26:41.000-05:00",
             "updated_on": "2020-01-25T10:26:41.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 6404,
+            "company_name": "Zeffer Cider Co.",
+            "tag": "Zeffer-Cider-Co",
+            "address": "1747 Korokipo Rd, RD3",
+            "city": "Fernhill, Hawke\u2019s Bay",
+            "state": "",
+            "postal": "4185",
+            "country": "New Zealand",
+            "phone": "+64 6 650 1836",
+            "fax": "",
+            "email": "info@zeffer.co.nz",
+            "url": "https://www.zeffer.co.nz/",
+            "checked_by": "Carrie",
+            "doubled_by": "Shane",
+            "notes": "Company email (January 2021)\r\n\r\n\"Happy to confirm that all Zeffer ciders and seltzers are vegan-friendly as none contain any animal ingredients nor do we use any in our cidermaking process. We craft all Zeffer products at our cidery in Hawke\u2019s Bay, NZ, including the ciders available in Australia. We\u2019ve just started labelling all our ciders with a more prominent 'vegan friendly' callout to help inform consumers too\"\r\n\r\nCompany email (June 2018)\r\n\r\n\"Yes all of our ciders are vegan and we definitely don\u2019t use any not fined/filtered animal products such as milk, eggs or gelatin.\"",
+            "created_on": "2018-06-02T09:11:08.000-04:00",
+            "updated_on": "2021-01-20T20:39:17.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
