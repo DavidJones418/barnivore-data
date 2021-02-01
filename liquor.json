@@ -1427,6 +1427,29 @@
     },
     {
         "company": {
+            "id": 8221,
+            "company_name": "Australian Seltzer Co. Pty Ltd",
+            "tag": "Australian-Seltzer-Co-Pty-Ltd",
+            "address": "12/401 Pacific Highway",
+            "city": "Artarmon",
+            "state": "New South Wales",
+            "postal": "2065",
+            "country": "Australia",
+            "phone": "",
+            "fax": "",
+            "email": "hello@alliedbeverages.co",
+            "url": "https://www.ausseltzer.co/",
+            "checked_by": "Shane",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"We are only produced in Australia at a single source. We dont intend to contract production as we need to manage quality control ourselves... our production team have confirmed we are vegan.\"",
+            "created_on": "2021-01-31T12:09:03.000-05:00",
+            "updated_on": "2021-01-31T12:09:03.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 1438,
             "company_name": "Avalon Vineyard",
             "tag": "Avalon-Vineyard",
@@ -2826,6 +2849,29 @@
             "updated_on": "2012-04-16T21:47:18.000-04:00",
             "status": "Not Vegan friendly",
             "red_yellow_green": "Yellow"
+        }
+    },
+    {
+        "company": {
+            "id": 8228,
+            "company_name": "Brass Lion Distillery",
+            "tag": "Brass-Lion-Distillery",
+            "address": "40 Alexandra Terrace",
+            "city": "",
+            "state": "",
+            "postal": "119933",
+            "country": "Singapore",
+            "phone": "+65 6954 0602",
+            "fax": "",
+            "email": "drink@brassliondistillery.com",
+            "url": "https://brassliondistillery.com/",
+            "checked_by": "Dan",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"Our gins do not contain any animal ingredients or use any animal products in the manufacturing process. All products are made in Singapore.\"",
+            "created_on": "2021-01-31T13:24:11.000-05:00",
+            "updated_on": "2021-01-31T13:24:11.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
         }
     },
     {
@@ -6648,6 +6694,29 @@
     },
     {
         "company": {
+            "id": 8219,
+            "company_name": "FELLR DRINKS PTY LTD.",
+            "tag": "FELLR-DRINKS-PTY-LTD",
+            "address": "",
+            "city": "",
+            "state": "",
+            "postal": "",
+            "country": "Australia",
+            "phone": "",
+            "fax": "",
+            "email": "hi@drinkfellr.com",
+            "url": "https://www.drinkfellr.com/",
+            "checked_by": "Shane",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"Yes, we\u2019re 100% vegan friendly. No animal products used, even at the broader production facility.\"",
+            "created_on": "2021-01-31T12:01:06.000-05:00",
+            "updated_on": "2021-01-31T12:01:06.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 4166,
             "company_name": "Ferdinand's Saar Dry Gin",
             "tag": "Ferdinands-Saar-Dry-Gin",
@@ -10040,12 +10109,12 @@
             "phone": "800-243-3618",
             "fax": "",
             "email": "https://www.ketelone.com/contact/",
-            "url": "http://www.ketelone.com/",
+            "url": "https://www.ketelone.com/",
             "checked_by": "Chris Lynch",
-            "doubled_by": "Nicole, Benjie, Julie, Kendra, Company, Julie",
-            "notes": "Company email (September 2020)\r\n\r\n[Same as Dec 2019, and isn't it cool that they proudly make vegan products and also have a standard reply to use about it?]\r\n\r\nCompany email (December 2019)\r\n\"All Ketel One vodka and vodka-based products are proudly vegan-friendly and free of animal products or by-products.  Ketel One is distilled using 100% non-GMO grain and yeast.  Our production processes are absent of any animal or animal by-product materials.\"\r\n\r\nCompany email (September 2019)\r\n\"We currently do not test our products to verify that they are Vegan, and therefore, cannot make any claims about its Vegan status. We also are unable to verify if the ingredients used are vegan, as the ingredients of our products are proprietary.\"\r\n\r\nCompany email (December 2011):\r\n\"In response to your inquiry, Ketel One and the Citroen are vegan as the raw materials and manufacturing processes are 100% free of animal ingredients or substances and no animal testing is performed for Ketel One Vodka. Please note that the Citroen flavor used for Ketel One Citroen has been checked as well and this also is free of any animal ingredients or substances.\"\r\n\r\nCompany email (circa 2006)\r\n\"The distillate is filtered through charcoal. To anwser your question, we do not use any animal products during the distillation process of Ketel One. \"",
+            "doubled_by": "Nicole, Benjie, Julie, Kendra, Company, Julie, Aaron",
+            "notes": "Company email (January 2021)\r\n\r\n[Same as Sept 2020, and Dec 2019, yay consistency!]\r\n\r\nCompany email (September 2020)\r\n\r\n[Same as Dec 2019, and isn't it cool that they proudly make vegan products and also have a standard reply to use about it?]\r\n\r\nCompany email (December 2019)\r\n\"All Ketel One vodka and vodka-based products are proudly vegan-friendly and free of animal products or by-products.  Ketel One is distilled using 100% non-GMO grain and yeast.  Our production processes are absent of any animal or animal by-product materials.\"\r\n\r\nCompany email (September 2019)\r\n\"We currently do not test our products to verify that they are Vegan, and therefore, cannot make any claims about its Vegan status. We also are unable to verify if the ingredients used are vegan, as the ingredients of our products are proprietary.\"\r\n\r\nCompany email (December 2011):\r\n\"In response to your inquiry, Ketel One and the Citroen are vegan as the raw materials and manufacturing processes are 100% free of animal ingredients or substances and no animal testing is performed for Ketel One Vodka. Please note that the Citroen flavor used for Ketel One Citroen has been checked as well and this also is free of any animal ingredients or substances.\"\r\n\r\nCompany email (circa 2006)\r\n\"The distillate is filtered through charcoal. To anwser your question, we do not use any animal products during the distillation process of Ketel One. \"",
             "created_on": "2006-08-31T00:21:40.000-04:00",
-            "updated_on": "2020-09-27T14:26:49.000-04:00",
+            "updated_on": "2021-01-31T11:42:02.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -13801,6 +13870,29 @@
     },
     {
         "company": {
+            "id": 8218,
+            "company_name": "Radico Khaitan Ltd.",
+            "tag": "Radico-Khaitan-Ltd",
+            "address": "Plot No. J-I, Block B-I, Mohan Co-operative Industrial Area, Mathura Road",
+            "city": "New Delhi",
+            "state": "",
+            "postal": "110044",
+            "country": "India",
+            "phone": "+91-11-4097 5444/5555",
+            "fax": "",
+            "email": "bangas@radico.co.in",
+            "url": "http://jaisalmergin.com/",
+            "checked_by": "Steven",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"Jaisalmer Gin is Vegan and no animal ingredients or animal products used in processing / filtration of the product.\r\n \r\n\"It is produced and bottled only at one location \u2013 our Mother Unit \u2013 Rampur Distillery.  It contains 11 botanicals of which 7 have been sourced from four corners of India.\"",
+            "created_on": "2021-01-31T11:55:49.000-05:00",
+            "updated_on": "2021-01-31T11:55:49.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
             "id": 616,
             "company_name": "Rain Organic Vodka",
             "tag": "Rain-Organic-Vodka",
@@ -13875,18 +13967,18 @@
             "tag": "Rebello-Wines",
             "address": "1438 Mornington Flinders Rd",
             "city": "Main Ridge",
-            "state": "VIC",
+            "state": "Victoria",
             "postal": "3928",
             "country": "Australia",
-            "phone": "+ 61 (03) 9001 9205",
+            "phone": "0431 477 764",
             "fax": "",
-            "email": "info@rebellowines.com.au",
-            "url": "www.rebellowines.com.au",
+            "email": "info@cheekyrascal.com.au",
+            "url": "https://www.cheekyrascal.com.au/",
             "checked_by": "Cassandra",
-            "doubled_by": "Sarah",
-            "notes": "Company email (October 2012):\r\n\"I can confirm that all our products do not contain any animal products.\r\nOur products are only made by ourselves at our winery.\"\r\n\r\nCompany email (October 2012): [regarding Cheeky Rascal Ciders]\r\n\"Yes our ciders are Vegan friendly. No animal products whatsoever are used in our ciders.\r\nWe are also Gluten free if that helps.\"",
+            "doubled_by": "Sarah, Shane",
+            "notes": "Company email (January 2021)\r\n\r\n\"All of our products are Gluten Free, Vegan Friendly and 100% real fruit.\"\r\n\r\nCompany email (October 2012):\r\n\"I can confirm that all our products do not contain any animal products.\r\nOur products are only made by ourselves at our winery.\"\r\n\r\nCompany email (October 2012): [regarding Cheeky Rascal Ciders]\r\n\"Yes our ciders are Vegan friendly. No animal products whatsoever are used in our ciders.\r\nWe are also Gluten free if that helps.\"",
             "created_on": "2012-10-19T20:42:08.000-04:00",
-            "updated_on": "2012-10-26T21:41:22.000-04:00",
+            "updated_on": "2021-01-31T12:18:33.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
@@ -16712,10 +16804,10 @@
             "email": "info@sazerac.com",
             "url": "https://www.buffalotracedistillery.com/",
             "checked_by": "AngelA",
-            "doubled_by": "C Bagley, Ian, Vikki, Nico, Brian, Brett, KD, Lauren, Jordan, Amanda D., Devin, Chris, Kimberley, Michelle, Shane, Tayler, Benjie, Carlie, Alex, Katey",
-            "notes": "Company email (December 2019)\r\n\"Platinum 7X vodka would not be appropriate for a vegan diet.\"\r\n\r\nCompany email (October 2019) re Fleischmann\u2019s Vodka:\r\n\"Unfortunately, I am told we cannot confirm Fleischmann\u2019s Vodka is suitable for vegans.\r\n\r\n\"While the vast majority of our products are vegan, we have a discovered a few ingredients we purchase from third party vendors that contain trace amount of animal derived materials. Unfortunately, developing suitable alternatives can be a significant hurdle for some of these vendors.\"\r\n\r\nCompany email (January 2019)\r\n\"We wanted to let you know we just heard from the product development team.  Dr. McGillicuddy\u2019s Mentholmint is vegan.\"\r\n\r\nCompany email (August 2018) re: Fireball Whisky:\r\n\" I\u2019ve looked into this for you and unfortunately we have found that one of the ingredients in Fireball has a vegetarian status but not vegan status and therefore we cannot claim Fireball Whisky to be completely vegan.\"\r\n\r\nCompany email (April 2017) re: Ten High\r\n\"We contacted our Quality Team who indicated that Ten High does not contain any animal ingredients (such as milk, eggs, honey, etc.) nor is it processed where other animal products might be used in processing/filtration.  It is not produced at any other location.\"\r\n\r\nCompany email (December 2016) re: Peychaud's Bitters\r\n\"I am told Peychaud\u2019s Bitters are vegan friendly.\"\r\n\r\nCompany email (April 2016) re: Fireball Whisky\r\n\"I have checked with our quality team and have been advised there are no animal products used in the production or filtration of Fireball Whisky and that it is vegan friendly\" [Note: they also said the previous (Jan 2016) statement was \"probably not worded correctly]\r\n\r\nCompany email (January 2016): re: Fireball Whisky\r\n\r\n\"I have asked our chemist about this and he let me know there is one ingredient in Fireball Cinnamon Whiskey that is Lacto Vegetarian and Lacto Ovo Vegetarian but not Vegan. \"\r\n\r\nCompany email (January 2014): re: Fireball Whisky\r\n\"I have asked our chemist about this and he said:  we use bulk real sugar and the bleaching process of sugar most of the time uses bone char (so unfortunately can\u2019t say for sure that products with sugar are vegan friendly).  Sorry \u2013 did not know this about the sugar used.\"\r\n\r\nCompany email (November 2013): re: Barton reserve\r\n\"To the best of our knowledge, no animal products are used in the production of our Whiskey products.  The \u201cto the best of our knowledge\u201d must be included because we don\u2019t know about the grain fertilizers or other things completely out of our control (therefore we do not have any documentation that they are Vegan certified). I hope this helps.\"\r\n\r\nCompany email (May 2013):\r\n\"Thank you for your recent inquiry regarding our Di Amore Amaretto.  No animal ingredients or filtration are used in manufacturing this product.\"\r\n\r\nCompany email (August 2012):\r\n\"Thank you for your recent inquiry regarding our Fireball Whisky. To the best of our knowledge, Fireball does not contain or is exposed to any animal derived material as do the rest of our Sazerac products.  However, because we cannot 100% guarantee this we always suggest our consumers consult with their physician first to make sure our products are safe for them.\"\r\n\r\nCompany email (May 2012):\r\n[When asked about Rain Vodka]: \"We don't use any animal derived ingredients in this product, but we do not claim to be vegan.\"\r\n\r\nCompany email (March 2012):\r\n\"We only filter Rain if needed and we do not use any animal derived ingredients.  It goes through filter pads made of cellulose.  However, we are not certified as vegan.\"\r\n\r\nCompany email (May 2011):\r\n\"To the best of our knowledge, we do not use any animal derived material in making this product.  The filtration medium used for this product is diatomaceous earth.  Also, we process and manufacture all Peychaud's bitters here in Frankfort.\"\r\n\r\nCompany email (April 2011):\r\n\"Thank you for your recent inquiry. As for your questions, our whiskey comes from Grain, we use diatomaceous earth to filter and our barrels are made from wood with steel hoops with no glue, just pressure, so to summarize, we use no animal products.\"\r\n\r\nCompany email (January 2010):\r\n\"Dr. McGillicuddy\u2019s uses white sugar.  We do not have certification on the processing method used for the sugar. We do not certify Dr. McGillicuddy\u2019s products as Vegan.\"\r\n\r\nCompany email (January 2010):\r\n\"None of our bourbons use animal products as ingredients or processing aids.  Our Vodkas and gins are also vegan friendly. Our Rain flavors, except for honey mango melon are Vegan. \"\r\n\r\nCompany email: \r\n\"The ingredients are all grain, as required by law.  Our filtering process is done with diatomaceous earth, currently mined from Oregon.  We do not use any animal product in the production of our Bourbons.\"\r\n\r\nCompany email: re: Old Rip Van Winkle\r\n\"The only products that are used to make bourbon are grain, water & yeast. That is it. No animal products.\"",
+            "doubled_by": "C Bagley, Ian, Vikki, Nico, Brian, Brett, KD, Lauren, Jordan, Amanda D., Devin, Chris, Kimberley, Michelle, Shane, Tayler, Benjie, Carlie, Alex, Katey, Regan",
+            "notes": "Company email (January 2021)\r\n\r\n\"I checked with quality team and [Dr. McGillicuddy\u2019s schnapps] are suitable for vegans.\"\r\n\r\nCompany email (December 2019)\r\n\"Platinum 7X vodka would not be appropriate for a vegan diet.\"\r\n\r\nCompany email (October 2019) re Fleischmann\u2019s Vodka:\r\n\"Unfortunately, I am told we cannot confirm Fleischmann\u2019s Vodka is suitable for vegans.\r\n\r\n\"While the vast majority of our products are vegan, we have a discovered a few ingredients we purchase from third party vendors that contain trace amount of animal derived materials. Unfortunately, developing suitable alternatives can be a significant hurdle for some of these vendors.\"\r\n\r\nCompany email (January 2019)\r\n\"We wanted to let you know we just heard from the product development team.  Dr. McGillicuddy\u2019s Mentholmint is vegan.\"\r\n\r\nCompany email (August 2018) re: Fireball Whisky:\r\n\" I\u2019ve looked into this for you and unfortunately we have found that one of the ingredients in Fireball has a vegetarian status but not vegan status and therefore we cannot claim Fireball Whisky to be completely vegan.\"\r\n\r\nCompany email (April 2017) re: Ten High\r\n\"We contacted our Quality Team who indicated that Ten High does not contain any animal ingredients (such as milk, eggs, honey, etc.) nor is it processed where other animal products might be used in processing/filtration.  It is not produced at any other location.\"\r\n\r\nCompany email (December 2016) re: Peychaud's Bitters\r\n\"I am told Peychaud\u2019s Bitters are vegan friendly.\"\r\n\r\nCompany email (April 2016) re: Fireball Whisky\r\n\"I have checked with our quality team and have been advised there are no animal products used in the production or filtration of Fireball Whisky and that it is vegan friendly\" [Note: they also said the previous (Jan 2016) statement was \"probably not worded correctly]\r\n\r\nCompany email (January 2016): re: Fireball Whisky\r\n\r\n\"I have asked our chemist about this and he let me know there is one ingredient in Fireball Cinnamon Whiskey that is Lacto Vegetarian and Lacto Ovo Vegetarian but not Vegan. \"\r\n\r\nCompany email (January 2014): re: Fireball Whisky\r\n\"I have asked our chemist about this and he said:  we use bulk real sugar and the bleaching process of sugar most of the time uses bone char (so unfortunately can\u2019t say for sure that products with sugar are vegan friendly).  Sorry \u2013 did not know this about the sugar used.\"\r\n\r\nCompany email (November 2013): re: Barton reserve\r\n\"To the best of our knowledge, no animal products are used in the production of our Whiskey products.  The \u201cto the best of our knowledge\u201d must be included because we don\u2019t know about the grain fertilizers or other things completely out of our control (therefore we do not have any documentation that they are Vegan certified). I hope this helps.\"\r\n\r\nCompany email (May 2013):\r\n\"Thank you for your recent inquiry regarding our Di Amore Amaretto.  No animal ingredients or filtration are used in manufacturing this product.\"\r\n\r\nCompany email (August 2012):\r\n\"Thank you for your recent inquiry regarding our Fireball Whisky. To the best of our knowledge, Fireball does not contain or is exposed to any animal derived material as do the rest of our Sazerac products.  However, because we cannot 100% guarantee this we always suggest our consumers consult with their physician first to make sure our products are safe for them.\"\r\n\r\nCompany email (May 2012):\r\n[When asked about Rain Vodka]: \"We don't use any animal derived ingredients in this product, but we do not claim to be vegan.\"\r\n\r\nCompany email (March 2012):\r\n\"We only filter Rain if needed and we do not use any animal derived ingredients.  It goes through filter pads made of cellulose.  However, we are not certified as vegan.\"\r\n\r\nCompany email (May 2011):\r\n\"To the best of our knowledge, we do not use any animal derived material in making this product.  The filtration medium used for this product is diatomaceous earth.  Also, we process and manufacture all Peychaud's bitters here in Frankfort.\"\r\n\r\nCompany email (April 2011):\r\n\"Thank you for your recent inquiry. As for your questions, our whiskey comes from Grain, we use diatomaceous earth to filter and our barrels are made from wood with steel hoops with no glue, just pressure, so to summarize, we use no animal products.\"\r\n\r\nCompany email (January 2010):\r\n\"Dr. McGillicuddy\u2019s uses white sugar.  We do not have certification on the processing method used for the sugar. We do not certify Dr. McGillicuddy\u2019s products as Vegan.\"\r\n\r\nCompany email (January 2010):\r\n\"None of our bourbons use animal products as ingredients or processing aids.  Our Vodkas and gins are also vegan friendly. Our Rain flavors, except for honey mango melon are Vegan. \"\r\n\r\nCompany email: \r\n\"The ingredients are all grain, as required by law.  Our filtering process is done with diatomaceous earth, currently mined from Oregon.  We do not use any animal product in the production of our Bourbons.\"\r\n\r\nCompany email: re: Old Rip Van Winkle\r\n\"The only products that are used to make bourbon are grain, water & yeast. That is it. No animal products.\"",
             "created_on": "2009-04-18T00:28:00.000-04:00",
-            "updated_on": "2019-12-30T13:12:43.000-05:00",
+            "updated_on": "2021-01-31T11:45:50.000-05:00",
             "status": "Has Some Vegan Options",
             "red_yellow_green": "Yellow"
         }
@@ -17958,6 +18050,29 @@
             "notes": "Company email (December 2017)\r\n\"...we have added five spirits to our company and all are vegan friendly.\"\r\n\r\nCompany Email (circa 2010)\r\n\"We are using zero animal products in our production.\"",
             "created_on": "2011-01-04T10:38:00.000-05:00",
             "updated_on": "2017-12-05T20:19:08.000-05:00",
+            "status": "Vegan Friendly",
+            "red_yellow_green": "Green"
+        }
+    },
+    {
+        "company": {
+            "id": 8217,
+            "company_name": "Wessex Distillery",
+            "tag": "Wessex-Distillery",
+            "address": "Unit 1, Towergate Business Park, Coopers Place, Combe Lane",
+            "city": "Wormley",
+            "state": "",
+            "postal": "GU8 5SY",
+            "country": "England",
+            "phone": "01428 684545",
+            "fax": "",
+            "email": "info@wessexdistillery.com",
+            "url": "https://wessexdistillery.com/",
+            "checked_by": "Sarah",
+            "doubled_by": "",
+            "notes": "Company email (January 2021)\r\n\r\n\"Our gins are suitable for vegans\"",
+            "created_on": "2021-01-31T11:52:45.000-05:00",
+            "updated_on": "2021-01-31T11:52:45.000-05:00",
             "status": "Vegan Friendly",
             "red_yellow_green": "Green"
         }
